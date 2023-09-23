@@ -1,1 +1,2 @@
 Training git with yandex_practicum
+Write text on the second branch
